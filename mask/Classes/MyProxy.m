@@ -11,7 +11,10 @@
 @interface MyProxy()
 
 @property(nonatomic,weak) id objc;
+/////
+/////
 
+/////
 @end
 
 @implementation MyProxy
