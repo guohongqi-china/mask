@@ -1,0 +1,6 @@
+framework module mask {
+  umbrella header "mask-umbrella.h"
+
+  export *
+  module * { export * }
+}

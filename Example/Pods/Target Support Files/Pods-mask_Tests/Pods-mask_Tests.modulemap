@@ -1,0 +1,6 @@
+framework module Pods_mask_Tests {
+  umbrella header "Pods-mask_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
