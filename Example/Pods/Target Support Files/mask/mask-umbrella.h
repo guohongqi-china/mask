@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "MyProxy.h"
 
 FOUNDATION_EXPORT double maskVersionNumber;
 FOUNDATION_EXPORT const unsigned char maskVersionString[];

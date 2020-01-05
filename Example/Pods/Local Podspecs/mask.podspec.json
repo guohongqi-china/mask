@@ -1,19 +1,19 @@
 {
   "name": "mask",
-  "version": "0.1.0",
-  "summary": "A short description of mask.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/820003039@qq.com/mask",
+  "version": "0.1.2",
+  "summary": "A shosrt desscription of mask.",
+  "description": "TODO: Adsd long descridptsion of the pod here.",
+  "homepage": "https://github.com/guohongqi-china/mask",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "820003039@qq.com": "820003039@qq.com"
+    "guohongqi-china": "820003039@qq.com"
   },
   "source": {
-    "git": "https://github.com/820003039@qq.com/mask.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/guohongqi-china/mask.git",
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "8.0"
