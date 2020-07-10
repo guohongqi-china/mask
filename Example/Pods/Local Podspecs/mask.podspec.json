@@ -1,6 +1,6 @@
 {
   "name": "mask",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A shosrt desscription of mask.",
   "description": "TODO: Adsd long descridptsion of the pod here.",
   "homepage": "https://github.com/guohongqi-china/mask",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/guohongqi-china/mask.git",
-    "tag": "0.1.2"
+    "tag": "0.1.3"
   },
   "platforms": {
     "ios": "8.0"
